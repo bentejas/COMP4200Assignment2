@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BenjaminTejasPortelles</string>
+    <string name="enterName">Enter a name to add to the list</string>
+    <string name="name">name</string>
+    <string name="submit">SUBMIT</string>
+    <string name="viewNames">View Names</string>
+    <string name="savedNames">Saved Names: </string>
+    <string name="goBack">RETURN</string>
+    <string name="nameList"></string>
 </resources>
