@@ -7,4 +7,5 @@
     <string name="savedNames">Saved Names: </string>
     <string name="goBack">RETURN</string>
     <string name="nameList"></string>
+    <string name="blackCheck">Set Color Black?</string>
 </resources>
